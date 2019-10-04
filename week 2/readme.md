@@ -1,5 +1,5 @@
 # Leetcode
-> i am gay
+> leetcode 題目
 * Designed Linked List
   * [題目](https://leetcode.com/problems/design-linked-list/)
 
