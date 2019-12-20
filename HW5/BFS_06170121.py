@@ -23,8 +23,7 @@ class Graph:
         return seen
                 
     def DFS(self, s):
-        stack = []
-        final = []
+        stack = [];final = []   
         final.append(s)
         stack = stack+self.graph[s]
         while len(stack) != 0:
