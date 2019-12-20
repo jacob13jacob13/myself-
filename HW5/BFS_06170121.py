@@ -9,21 +9,19 @@ class Graph:
 
     def BFS(self, s): 
         queue = []
-        final = []
-        final.append(s)
-        queue = queue+self.graph[s]
+        seen = []
+        queue.append(s)
+        seen.append(s)
+        
         while len(queue) != 0:
-            s = queue.pop(0)
-            final.append(s)
-            plus = []
-            plus = plus+self.graph[s]
-            for i in plus:
-                if i in queue:
-                    plus.remove(i)
-                if i in final:
-                    plus.remove(i)
-            queue = queue+plus
-        return final
+            v = queue.pop(0)
+            nodes = self.graph[v]
+            for i in nodes:
+                if i not in seen:
+                    queue.append(i)
+                    seen.append(i)
+        return seen
+                
     def DFS(self, s):
         stack = []
         final = []
@@ -41,4 +39,3 @@ class Graph:
                     plus.remove(i)
             stack = stack+plus
         return final
-       
