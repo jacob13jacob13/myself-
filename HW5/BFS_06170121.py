@@ -27,10 +27,8 @@ class Graph:
         final.append(s)
         stack = stack+self.graph[s]
         while len(stack) != 0:
-            s = stack.pop()
-            final.append(s)
-            plus = []
-            plus = plus+self.graph[s]
+            s = stack.pop();final.append(s)
+            plus = [];plus = plus+self.graph[s]         
             for i in plus:
                 if i in stack:
                     plus.remove(i)
