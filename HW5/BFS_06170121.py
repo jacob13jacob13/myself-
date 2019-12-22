@@ -22,17 +22,18 @@ class Graph:
                     seen.append(i)
         return seen
                 
-    def DFS(self, s):
-        stack = [];final = []   
+     def DFS(self, s):
+        stack = [];final = []
         final.append(s)
         stack = stack+self.graph[s]
-        while len(stack) != 0:
-            s = stack.pop();final.append(s)
-            plus = [];plus = plus+self.graph[s]         
-            for i in plus:
-                if i in stack:
-                    plus.remove(i)
+        while len(stack) != len(final)-1:
+            for i in reversed(stack):
                 if i in final:
-                    plus.remove(i)
-            stack = stack+plus
+                    continue
+                final.append(i)
+                for n in self.graph[i]:
+                    if n not in stack:
+                        if n not in final:
+                            stack.append(n)
+                break
         return final
