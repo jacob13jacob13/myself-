@@ -22,7 +22,7 @@ class Graph:
                     seen.append(i)
         return seen
                 
-     def DFS(self, s):
+    def DFS(self, s):
         stack = [];final = []
         final.append(s)
         stack = stack+self.graph[s]
