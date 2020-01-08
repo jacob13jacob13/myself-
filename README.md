@@ -14,7 +14,7 @@
 - [補充:About Stack](http://alrightchiu.github.io/SecondRound/stack-introjian-jie.html)
 - [補充:About Queue](http://alrightchiu.github.io/SecondRound/priority-queueintrojian-jie.html)
 - [Maze By Stack](https://www.youtube.com/watch?v=yCQLluCn3rc&feature=emb_logo)
-- [x] [My Stack](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/155.Min%20Stack.py)
+-  [My Stack](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/155.Min%20Stack.py)
 - [x] [My Queue](https://github.com/C-WeiYu/WeiYu/blob/master/Leetcode/class/232.%20Implement%20Queue%20using%20Stacks.py)
 ### Week4
 - [Set By Teacher](https://github.com/pecu/DSA/blob/master/03_Set/set-mismatch.py)
