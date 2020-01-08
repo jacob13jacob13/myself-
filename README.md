@@ -63,5 +63,10 @@
 ### [CodeSignal](https://github.com/C-WeiYu/WeiYu/tree/master/CodeSignal)
 > 
 ### [LeetCode](https://github.com/C-WeiYu/WeiYu/tree/master/Leetcode)
-> 
+- [x] [#1_Two Sum](https://github.com/jacob13jacob13/myself-/blob/master/Leetcode/1_Two%20Sum_06170121.py)
+- [x] [#155_Min Stack](https://github.com/jacob13jacob13/myself-/blob/master/Leetcode/155_Min%20Stack_06170121.py)
+- [x] [#187_Repeated DNA Sequences](https://github.com/jacob13jacob13/myself-/blob/master/Leetcode/187_Repeated%20DNA%20Sequences_06170121.py)
+- [x] [#705_Design HashSet](https://github.com/jacob13jacob13/myself-/blob/master/Leetcode/705_Design%20HashSet_06170121.py)
+- [x] [#707_Design Linked List](https://github.com/jacob13jacob13/myself-/blob/master/Leetcode/707_Design%20Linked%20List_06170121.py)
+
 
