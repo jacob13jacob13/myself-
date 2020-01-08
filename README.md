@@ -1,3 +1,7 @@
+# 自我簡介:
+### **李家維** 
+* 就讀於: 東吳大學
+* 主修: 巨量資料管理學系
 # 這是我上課的筆記
 ### Week1
 - 停課或放假
@@ -57,7 +61,7 @@
 - [x] [HW5:BFS and DFS](https://github.com/C-WeiYu/WeiYu/tree/master/HW5)
 - [x] [HW6:Dijkstra and Kruskal](https://github.com/C-WeiYu/WeiYu/tree/master/HW6)
 ### [CodeSignal](https://github.com/C-WeiYu/WeiYu/tree/master/CodeSignal)
-> 陸續將自己程式基礎補齊的足跡
+> 
 ### [LeetCode](https://github.com/C-WeiYu/WeiYu/tree/master/Leetcode)
-> 裡面有我在LeetCode慢慢累積的點滴
+> 
 
