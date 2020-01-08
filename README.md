@@ -55,7 +55,7 @@
 ## CS50:
 ### 資料結構與演算法
 - [x] [HW1:QuickSort](https://github.com/C-WeiYu/WeiYu/tree/master/HW1)
-- [x] [HW2:MergeSort and HeapSort](https://github.com/C-WeiYu/WeiYu/tree/master/HW2)
+- [x] [HW2:MergeSort and HeapSort](https://github.com/jacob13jacob13/myself-/tree/master/HW2)
 - [x] [HW3:Binary Search Tree](https://github.com/C-WeiYu/WeiYu/tree/master/HW3)
 - [x] [HW4:Hash Table](https://github.com/C-WeiYu/WeiYu/tree/master/HW4)
 - [x] [HW5:BFS and DFS](https://github.com/C-WeiYu/WeiYu/tree/master/HW5)
