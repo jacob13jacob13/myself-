@@ -47,6 +47,7 @@
 ### Week18
 - 停課或放假
 ## [CS50](https://github.com/jacob13jacob13/myself-/tree/master/CS50)
+-  [CS50心得](https://github.com/jacob13jacob13/myself-/tree/master/CS50)
 ### 資料結構與演算法
 -  [HW1:QuickSort](https://github.com/jacob13jacob13/myself-/tree/master/HW1)
 -  [HW2:MergeSort and HeapSort](https://github.com/jacob13jacob13/myself-/tree/master/HW2)
