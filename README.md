@@ -54,7 +54,7 @@
 -  [HW4:Hash Table](https://github.com/jacob13jacob13/myself-/tree/master/HW4)
 -  [HW5:BFS and DFS](https://github.com/jacob13jacob13/myself-/tree/master/HW5)
 -  [HW6:Dijkstra and Kruskal](https://github.com/jacob13jacob13/myself-/tree/master/HW6)
-### [CodeSignal](https://github.com/C-WeiYu/WeiYu/tree/master/CodeSignal)
+### [CodeSignal](https://github.com/jacob13jacob13/myself-/tree/master/Codesignal)
 > 
 ### [LeetCode](https://github.com/jacob13jacob13/myself-/tree/master/Leetcode)
 -  [#1_Two Sum](https://github.com/jacob13jacob13/myself-/blob/master/Leetcode/1_Two%20Sum_06170121.py)
