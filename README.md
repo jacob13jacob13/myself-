@@ -23,6 +23,7 @@
 - [Set Exercise](https://leetcode.com/problems/set-mismatch/)
 - [About Insertion Sort](http://notepad.yehyeh.net/Content/Algorithm/Sort/Insertion/1.php)
 - [Bubble Sort vs Quick Sort](https://www.youtube.com/watch?v=G4dwRF_Rzd0&feature=emb_logo)
+- [HW1](https://github.com/jacob13jacob13/myself-/tree/master/HW1)
 ### Week5
 - 停課或放假
 ### Week6
@@ -30,25 +31,35 @@
 - [About Heap Sort](http://alrightchiu.github.io/SecondRound/comparison-sort-heap-sortdui-ji-pai-xu-fa.html)
 - [Spyder Debug Mode](https://docs.spyder-ide.org/debugging.html)
 - [Python Code](https://realpython.com/python-pep8/?fbclid=IwAR1olxlNcAQhKZVNw6-JBCituCKsqfk3YL67xOMfQA-_fyqbHyrFJRm15T4)
--  [My Heap Sort](https://github.com/C-WeiYu/WeiYu/blob/master/HW2/heap_sort_06170201.py)
 ### Week7
 - [Heap Sort](https://algorithm.yuanbin.me/zh-tw/basics_data_structure/heap.html)
 - [Merge Sort](https://www.c-programming-simple-steps.com/merge-sort.html)
 - [Merge Sort:Pseudocode](https://www.slideshare.net/MJabin/merge-sort-and-quick-sort)
 - [Merge Sort vs Quick Sort](https://www.youtube.com/watch?time_continue=1&v=es2T6KY45cA&feature=emb_logo)
--  [My Merge Sort](https://github.com/C-WeiYu/WeiYu/blob/master/HW2/merge_sort_06170201.py)
+- [HW2](https://github.com/jacob13jacob13/myself-/tree/master/HW2)
 ### Week8
-
+- [Binary Tree](http://alrightchiu.github.io/SecondRound/binary-tree-introjian-jie.html)
 ### Week9
+- [Binary Search Tree](http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html)
+- [HW3](https://github.com/jacob13jacob13/myself-/tree/master/HW3)
 ### Week10
+- [Red Black Tree](https://alrightchiu.github.io/SecondRound/red-black-tree-introjian-jie.html)
+- [Binary Search Tree](http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html)
 ### Week11
+- [Hash Table](http://alrightchiu.github.io/SecondRound/hash-tableintrojian-jie.html)
+- [HW4](https://github.com/jacob13jacob13/myself-/tree/master/HW4)
 ### Week12
+- [Breadth-First Search](http://simonsays-tw.com/web/DFS-BFS/BreadthFirstSearch.html)
 ### Week13
+- [DFS](https://alrightchiu.github.io/SecondRound/graph-depth-first-searchdfsshen-du-you-xian-sou-xun.html)
+- [HW5](https://github.com/jacob13jacob13/myself-/tree/master/HW5)
 ### Week14
+- [Minimum Spanning Tree](http://alrightchiu.github.io/SecondRound/minimum-spanning-treeintrojian-jie.html)
 ### Week15
+- [Shortest_path-Dijkstra](http://alrightchiu.github.io/SecondRound/shortest-pathintrojian-jie.html)
 ### Week16
-- 總複習
-- 意義
+- [HW6](https://github.com/jacob13jacob13/myself-/tree/master/HW6)
+- [總複習]
 ### Week17
 - 期末考
 ### Week18
