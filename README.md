@@ -59,7 +59,6 @@
 - [Shortest_path-Dijkstra](http://alrightchiu.github.io/SecondRound/shortest-pathintrojian-jie.html)
 ### Week16
 - [HW6](https://github.com/jacob13jacob13/myself-/tree/master/HW6)
-- [總複習]
 ### Week17
 - 期末考
 ### Week18
