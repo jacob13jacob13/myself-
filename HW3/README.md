@@ -1,5 +1,5 @@
 # 作業3
  * 功課
  
-      -[Heap Sort程式碼](https://github.com/jacob13jacob13/myself-/blob/master/HW2/heap%20sort%2006170121.py)
+      -[Binary Search Tree流程圖](https://github.com/jacob13jacob13/myself-/blob/master/HW3/Binary%20Search%20Tree.pdf)
      
