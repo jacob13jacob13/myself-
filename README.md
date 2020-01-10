@@ -41,7 +41,7 @@
 ### Week15
 ### Week16
 - 總複習
-- [意義](pic/life.jpg)
+- 意義
 ### Week17
 - 期末考
 ### Week18
