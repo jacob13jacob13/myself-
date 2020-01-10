@@ -1,5 +1,6 @@
-這邊放Codesignal練習的程式碼解答
 # Codesignal   
+這邊放Codesignal練習的程式碼解答
+   
 ## [01.add](https://github.com/yenchungLin/study/blob/master/Codesignal/01add.py)      
 ## [02.centeryFromYear](https://github.com/yenchungLin/study/blob/master/Codesignal/02centuryfromyear.py)   
 ## [03.checkPalindrome](https://github.com/yenchungLin/study/blob/master/Codesignal/03checkPalindrome.py)       
