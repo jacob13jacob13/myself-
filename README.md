@@ -7,7 +7,7 @@
 - [2.Leetcode](#Leetcode)
 - [3.CS50](#CS50)
 - [4.Codesignal](#Codesignal)
-- [5.Homeworks](#資料結構與演算法)
+- [5.功課](#資料結構與演算法)
 - [6.課程心得](#心得)
 # 這是我上課的筆記
 ### Week1
