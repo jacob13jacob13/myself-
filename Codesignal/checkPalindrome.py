@@ -1,7 +1,6 @@
 def  checkPalindrome ( inputString ):
     start  =  0
     end  =  len ( inputString ) - 1
-    #start >= end表示已經比完了
     while  start  <  end :
         if  inputString [ start ] !=  inputString [ end ]:
             return  False
