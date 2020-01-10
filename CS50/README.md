@@ -9,3 +9,8 @@ https://www.youtube.com/watch?v=g1LC-nbnr34
 其實 JavaScript 的重點就是怎麼操作 DOM 以及跟後端 server 溝通，所以這週的重點也滿明確的。
 先隨意從 JavaScript 的基本語法示範，再來就示範怎麼樣拿到 DOM 物件以及執行順序的問題，解釋了為什麼會看到很多人都把 script 放在 body 最下面，是為了避免 render blocking 的問題，因為瀏覽器一碰到 script 就會先停下來執行完畢。
 最後就講一下 ajax，直接拿以前教過的專案來示範，最後現場快速 demo 出一個顯示出 Twitch stream 截圖的網頁。
+
+## 其他補充影片
+https://www.youtube.com/watch?v=u5pDdEKnbKA
+https://www.youtube.com/watch?v=cF6YkH-8vFk&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&t=0s
+https://www.youtube.com/watch?v=4IrUAqYKjIA&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&t=0s
