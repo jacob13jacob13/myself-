@@ -1,4 +1,4 @@
-# 自我簡介:
+# 自我簡介
 ### **李家維** 
 * 就讀於: 東吳大學
 * 主修: 巨量資料管理學系
@@ -72,5 +72,6 @@
 -  [#187_Repeated DNA Sequences](https://github.com/jacob13jacob13/myself-/blob/master/Leetcode/187_Repeated%20DNA%20Sequences_06170121.py)
 -  [#705_Design HashSet](https://github.com/jacob13jacob13/myself-/blob/master/Leetcode/705_Design%20HashSet_06170121.py)
 -  [#707_Design Linked List](https://github.com/jacob13jacob13/myself-/blob/master/Leetcode/707_Design%20Linked%20List_06170121.py)
-
+## 心得
+這堂個最注重於自學，很多底子若之前沒有打好上課時會很辛苦，每次的功課看似簡單，但邏輯懂跟寫不寫得出來是兩種事。這堂課常常需要我們自己動腦，去構思屬於自己的程式碼。不論老師上課說的還是課後的自學，這堂課讓我學到了很多，對於python也更了解。
 
