@@ -11,6 +11,6 @@ https://www.youtube.com/watch?v=g1LC-nbnr34
 最後就講一下 ajax，直接拿以前教過的專案來示範，最後現場快速 demo 出一個顯示出 Twitch stream 截圖的網頁。
 
 ## 其他補充影片
-https://www.youtube.com/watch?v=u5pDdEKnbKA
-https://www.youtube.com/watch?v=cF6YkH-8vFk&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&t=0s
-https://www.youtube.com/watch?v=4IrUAqYKjIA&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&t=0s
+- https://www.youtube.com/watch?v=u5pDdEKnbKA
+- https://www.youtube.com/watch?v=cF6YkH-8vFk&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&t=0s
+- https://www.youtube.com/watch?v=4IrUAqYKjIA&list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW&t=0s
